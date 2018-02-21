@@ -1,2 +1,2 @@
 # CheckSettings
-Check working of settings
+Check working of setting
