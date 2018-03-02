@@ -1,0 +1,18 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-03-02T15:49:08</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-03-02T16:10:27</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="faeae6" />
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
