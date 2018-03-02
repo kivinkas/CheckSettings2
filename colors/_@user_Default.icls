@@ -3,7 +3,7 @@
     <property name="created">2018-03-02T15:49:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-03-02T16:39:43</property>
+    <property name="modified">2018-03-02T16:40:57</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -12,13 +12,6 @@
         <option name="BACKGROUND" value="faeae6" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
-      </value>
-    </option>
-    <option name="DIFF_INSERTED">
-      <value>
-        <option name="FOREGROUND" value="e5f5e5" />
-        <option name="BACKGROUND" value="bee6be" />
-        <option name="ERROR_STRIPE_COLOR" value="aadeaa" />
       </value>
     </option>
   </attributes>
