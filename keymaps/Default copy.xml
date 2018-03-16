@@ -1,5 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="ExportToEclipse">
-    <keyboard-shortcut first-keystroke="alt e" second-keystroke="e" />
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ImportSettings">
+    <keyboard-shortcut first-keystroke="alt i" />
   </action>
 </keymap>
