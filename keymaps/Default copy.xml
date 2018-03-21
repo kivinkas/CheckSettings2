@@ -1,5 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="ConfigureIcs">
-    <keyboard-shortcut first-keystroke="alt s" />
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
 </keymap>
