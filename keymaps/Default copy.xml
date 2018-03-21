@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ImportSettings">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+</keymap>
