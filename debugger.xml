@@ -78,9 +78,7 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <scroll-to-center>true</scroll-to-center>
-    </general>
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
