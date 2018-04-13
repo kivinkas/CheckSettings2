@@ -28,10 +28,4 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="false" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="automaticallyInsertClosingTag" value="false" />
-  </component>
 </application>
