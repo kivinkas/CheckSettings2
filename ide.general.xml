@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="browserPath" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
     <option name="showTipsOnStartup" value="false" />
   </component>
 </application>
