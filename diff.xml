@@ -1,0 +1,5 @@
+<application>
+  <component name="DiffManager">
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
+</application>
