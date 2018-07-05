@@ -1,0 +1,22 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="ActionScript/Create Event Handler" />
+    <ignoreAction name="ActionScript/Create Getter" />
+    <ignoreAction name="ActionScript/Create Getter and Setter" />
+    <ignoreAction name="ActionScript/Create Setter" />
+    <ignoreAction name="ActionScript/Create Subclass or Implement Interface" />
+    <ignoreAction name="Android/Add Parcelable Implementation" />
+    <ignoreAction name="Android/Add activity to manifest" />
+    <ignoreAction name="Android/Add broadcast receiver to manifest" />
+    <ignoreAction name="Android/Add library dependency" />
+    <ignoreAction name="Android/Add service to manifest" />
+    <ignoreAction name="Android/Convert to data binding layout" />
+    <ignoreAction name="Android/Create onClick event handler" />
+    <ignoreAction name="Android/Extract color resource" />
+    <ignoreAction name="Android/Extract dimension resource" />
+    <ignoreAction name="Android/Extract string resource" />
+    <ignoreAction name="Android/Override Resource in Other Configuration..." />
+    <ignoreAction name="Android/Remove Parcelable Implementation" />
+    <ignoreAction name="Android/Replace Parcelable Implementation" />
+  </component>
+</application>
