@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Go" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\JetBrains\GoLand 2018.1.4\bin\goland64.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/JetBrains/GoLand 2018.1.4/bin" />
+    </exec>
+  </tool>
+</toolSet>
