@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="ActionScript/Create Event Handler" />
+    <ignoreAction name="ActionScript/Create Getter" />
+  </component>
+</application>
