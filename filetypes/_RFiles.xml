@@ -1,0 +1,13 @@
+<filetype binary="false" description="*R files" name="*RFiles">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="'" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="LINE_COMMENT_AT_START" value="true" />
+    </options>
+    <keywords keywords="*.r" ignore_case="true" />
+  </highlighting>
+</filetype>
